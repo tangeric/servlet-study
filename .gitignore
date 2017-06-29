@@ -1,0 +1,12 @@
+
+*.class
+stu/.settings/org.eclipse.wst.common.project.facet.core.xml
+stu/.settings/org.eclipse.wst.jsdt.ui.superType.name
+stu/.settings/org.eclipse.wst.jsdt.ui.superType.container
+stu/.settings/org.eclipse.wst.common.component
+stu/.settings/org.eclipse.jdt.core.prefs
+stu/.classpath
+stu/.project
+stu/.settings/.jsdtscope
+stu/WebContent/META-INF/MANIFEST.MF
+stu/WebContent/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar
